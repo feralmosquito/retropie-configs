@@ -4,6 +4,8 @@
 **/*.jpg
 **/*.png
 **/*.svg
+# Fonts
+**/*.ttf
 # Archives
 **/*.zip
 # Stuff that should be its own repo
