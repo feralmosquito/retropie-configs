@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Mortal Kombat (1994)(Arena)(PAL)(Track 01 of 21)[!].iso</path>
+		<name>Mortal Kombat (1994)(Arena)(PAL)(Track 01 of 21)[!]</name>
+		<playcount>1</playcount>
+		<lastplayed>20181224T001939</lastplayed>
+	</game>
+	<game>
+		<path>./Ground Zero Texas (disc 1) (Sega CD) (U).cue</path>
+		<name>Ground Zero Texas (disc 1) (Sega CD) (U)</name>
+		<playcount>1</playcount>
+		<lastplayed>20190705T165810</lastplayed>
+	</game>
+	<game>
+		<path>./sonic_cd_-_sega_cd_MK-4407_(redump).cue</path>
+		<name>sonic_cd_-_sega_cd_MK-4407_(redump)</name>
+		<favorite>true</favorite>
+		<playcount>5</playcount>
+		<lastplayed>20190913T092712</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Final Fantasy VII (USA).PBP</path>
+		<name>Final Fantasy VII</name>
+		<desc>Set in a dystopian world, Final Fantasy VII's story centers on mercenary Cloud Strife who joins with several others to stop the megacorporation Shinra, which is draining the life of the planet to use as an energy source. As the story progresses, the situation escalates and Cloud and his allies face Sephiroth, the game's main antagonist.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/psx/Final Fantasy VII (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19970601T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Resident Evil 2 (USA).PBP</path>
+		<name>Resident Evil</name>
+		<desc>Gory attacks and unexplained disappearance brings your S.T.A.R.S. (Special Tactics and Rescue Squad) unit to investigate a remote mansion. Driven into the mansion, you are underpowered and on the run and must arm yourself with anything you can find to stay alive: knives, pistols, shotguns, flame-throwers. Solve puzzles, disarm traps and uncover mysteries while trying to survive the freaks of nature and lurking horrors to get to the source of the Resident Evil.
+
+You're dead scared... Face your fear!
+Unstoppable zombies, monstrous spiders, mutated snakes and other unknown horrors prowl hundreds of rooms in the gigantic mansion, underground lairs, garden, graveyard and guest houses.
+Unprecedented detail-intense texture maps, shadows and lighting effects.
+Realistic polygon character graphics, unique camera angles with an ominous digital-surround soundtrack for a rich and evil 3D environment.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/psx/Resident Evil 2 (USA)-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19960322T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Twisted Metal 2 (USA).PBP</path>
+		<name>Twisted Metal</name>
+		<desc>YOU ARE WHAT YOU DRIVE
+Big and tough, fast and deadly, or just plain crazy! 12 deadly machines in all! Stalk highways! Hunt suburbia! Take your pick. One just says you all over!
+
+INSANE 3D COMBAT!
+Drive anywhere, anytime, in any direction!
+Onto sidewalks, off ramps, into pedestrians!
+Fire off machine guns, heat seeking missiles and more!
+Brake and swerve, fishtail around corners!
+
+OUTWIT, OUTRUN, OUTGUN!
+Battle up to eight deadly cars at once!
+Compete in split screen two-player mode!
+Battle in city streets, highways, downtown, suburbs, even rooftops of skyscrapers!
+Last one to survive wins!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/psx/Twisted Metal 2 (USA)-image.png</image>
+		<rating>0.5</rating>
+		<releasedate>19951105T000000</releasedate>
+		<developer>Singletrac</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Capcom vs. SNK Pro (USA).PBP</path>
+		<name>Capcom Generations</name>
+		<desc>Capcom Generations (Capcom Generation in Japan) was a retrospective series of five collections of Capcom's greatest games from their early days. All (except for Super Ghouls 'n Ghosts, made for the SNES) were direct ports of the original arcade games. The series was released for the PlayStation and the Sega Saturn in 1998. Only the first four volumes were released in Europe, with the fifth retitled Street Fighter Collection 2. Only the last volume (Street Fighter Collection 2) was released in North America. This all changed when they were repackaged as Capcom Classics Collection.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Capcom vs. SNK Pro (USA)-image.jpg</image>
+		<releasedate>19990903T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre />
+		<playcount>4</playcount>
+		<lastplayed>20190705T165900</lastplayed>
+	</game>
+	<game>
+		<path>./Castlevania - Symphony of the Night (USA)/Castlevania - Symphony of the Night (USA).cue</path>
+		<name>Castlevania - Symphony of the Night (USA)</name>
+		<favorite>true</favorite>
+		<playcount>3</playcount>
+		<lastplayed>20190913T094704</lastplayed>
+	</game>
+	<game>
+		<path>./Castlevania Chronicles (USA) [SLUS-01384]/Castlevania Chronicles (USA) [SLUS-01384].cue</path>
+		<name>Castlevania Chronicles (USA) [SLUS-01384]</name>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20190913T095835</lastplayed>
+	</game>
+	<game>
+		<path>./Crash Bandicoot (USA)/Crash Bandicoot (USA).cue</path>
+		<name>Crash Bandicoot (USA)</name>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Final Fantasy Tactics (USA)/Final Fantasy Tactics (USA).cue</path>
+		<name>Final Fantasy Tactics (USA)</name>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Tekken (USA)/Tekken (USA).cue</path>
+		<name>Tekken (USA)</name>
+		<favorite>true</favorite>
+		<playcount>2</playcount>
+		<lastplayed>20190913T100421</lastplayed>
+	</game>
+</gameList>
