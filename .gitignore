@@ -1,0 +1,10 @@
+# Launch history files
+**/*.lpl
+# Images
+**/*.jpg
+**/*.png
+**/*.svg
+# Archives
+**/*.zip
+# Stuff that should be its own repo
+ports/kodi/
